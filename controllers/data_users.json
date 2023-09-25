@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Jorge",
+        "surname": "Pizarro",
+        "email": "jpizarro@correo.com",
+        "password": "Jorge123",
+        "role": "ADMIN",
+        "birth_date": "1992-01-16T00:00:00Z",
+        "rating_score": 4.3
+    },
+    {
+        "name": "Willan",
+        "surname": "Mendieta",
+        "email": "wmendieta@correo.com",
+        "password": "Willan123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Adrian",
+        "surname": "Bustos",
+        "email": "abustos@correo.com",
+        "password": "Adrian123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Pamela",
+        "surname": "Quito",
+        "email": "pquito@correo.com",
+        "password": "Pamela123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Gael",
+        "surname": "Uyauri",
+        "email": "guyauri@correo.com",
+        "password": "Gael123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Joshep",
+        "surname": "Pizarro",
+        "email": "jpizarro2@correo.com",
+        "password": "Joshep123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Anthony",
+        "surname": "Pizarro",
+        "email": "jpizarro1@correo.com",
+        "password": "Anthony123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Carmita",
+        "surname": "Romero",
+        "email": "cromero@correo.com",
+        "password": "Carmita123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Santiago",
+        "surname": "Franco",
+        "email": "sfranco@correo.com",
+        "password": "Santiago123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Statton",
+        "surname": "Stoker",
+        "email": "sstoker@correo.com",
+        "password": "Stantton123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Christian",
+        "surname": "Castillo",
+        "email": "ccastillo@correo.com",
+        "password": "Christian123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Nestor",
+        "surname": "Idrovo",
+        "email": "nidrovo@correo.com",
+        "password": "Nestor123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Paola",
+        "surname": "Pizarro",
+        "email": "ppizarro@correo.com",
+        "password": "Paola123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Danny",
+        "surname": "Yunga",
+        "email": "dyunga@correo.com",
+        "password": "Danny123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Pedro",
+        "surname": "Neira",
+        "email": "pneira@correo.com",
+        "password": "Pedro123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    },
+    {
+        "name": "Vanessa",
+        "surname": "Bustos",
+        "email": "vbustos@correo.com",
+        "password": "Vanessa123",
+        "role": "USER",
+        "birth_date": "1998-04-10T00:00:00Z"
+    },
+    {
+        "name": "David",
+        "surname": "Paguay",
+        "email": "dpaguay@correo.com",
+        "password": "David123",
+        "role": "USER",
+        "birth_date": "1998-06-24T00:00:00Z"
+    },
+    {
+        "name": "Sebastian",
+        "surname": "Bedoya",
+        "email": "sbedoya@correo.com",
+        "password": "Sebastian123",
+        "role": "USER",
+        "birth_date": "2000-07-12T00:00:00Z"
+    },
+    {
+        "name": "Andres",
+        "surname": "Idrovo",
+        "email": "aidrovo@correo.com",
+        "password": "Andres123",
+        "role": "USER",
+        "birth_date": "1993-05-02T00:00:00Z"
+    },
+    {
+        "name": "Tracy",
+        "surname": "Cárdenas",
+        "email": "tcardenas@correo.com",
+        "password": "Tracy123",
+        "role": "USER",
+        "birth_date": "1998-05-05T00:00:00Z"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Juego de desarmadores",
+        "short_description": "Tengo un juego desarmadores sin usar.",
+        "long_description": "Al kit de desarmadores le falta uno tipo estrella de muchas puntas como se ve en la foto.",
+        "exchange_rate": "",
+        "tags": "#varios#ferreria#desarmador",
+        "status": "usado",
+        "user_id": "02d1e516-c752-4c24-b78f-c709572e7d5f",
+        "category_id": 2
+    },
+    {
+        "title": "Carro a control remoto",
+        "short_description": "Carro a control remotro para edad de 8 años",
+        "long_description": "",
+        "exchange_rate": "",
+        "tags": "#niños#regalos",
+        "status": "usado",
+        "user_id": "0e3211bb-d1bd-4307-afed-10b09b9b7a2d",
+        "category_id": 3
+    },
+    {
+        "title": "Colección de Harry Potter",
+        "short_description": "Todos los libros de Harry Potter",
+        "long_description": "Los libros con orginales se encuentran casi nuevos así con su caja de protección.",
+        "exchange_rate": "",
+        "tags": "#harryPotter#lectura",
+        "status": "usado",
+        "user_id": "02d1e516-c752-4c24-b78f-c709572e7d5f",
+        "category_id": 4
+    },
+    {
+        "title": "Multimetro",
+        "short_description": "Multimetro marca REO",
+        "long_description": "Lo estoy intercambiando ya que lo compre para pasar una materia que tenia así que esta como nuevo. espero que alguna persona lo pueda aprovechar",
+        "exchange_rate": "",
+        "tags": "#electronica#medidor#nuevo",
+        "status": "usado",
+        "user_id": "32472948-42ef-42f1-a43a-791fcb9e8507",
+        "category_id": 5
+    },
+    {
+        "title": "Protector de volante",
+        "short_description": "Protector de volante deportivo de caucho",
+        "long_description": "El protector se encuentra completamente nuevo en su paquete sin usar.",
+        "exchange_rate": "",
+        "tags": "#auto#protector",
+        "status": "nuevo",
+        "user_id": "5728860e-2797-48aa-b403-7ae733796eb5",
+        "category_id": 6
+    },
+    {
+        "title": "Luces para neblina",
+        "short_description": "Luces para neblina para volante",
+        "long_description": "Luces de 100luv perfectos para neblina. con sus soporte para colocarlos en el volante o parte laterales.",
+        "exchange_rate": "",
+        "tags": "#luces#motos",
+        "status": "usado",
+        "user_id": "e24262a7-431e-4876-81b2-028d61db6ae6",
+        "category_id": 7
+    },
+    {
+        "title": "Clases de Cálculo Avanzado",
+        "short_description": "Brindo nivelación de matemáticas",
+        "long_description": "Tengo en conocimiento de alto nivel en matemáticas para secundaria y universidad.",
+        "exchange_rate": "",
+        "tags": "#clases#nivelación",
+        "status": "nuevo",
+        "user_id": "9324d24b-7d5a-43ce-970b-6ef95edfc60e",
+        "category_id": 8
+    },
+    {
+        "title": "Gorra de lana",
+        "short_description": "Gorra negra de lana para frío",
+        "long_description": "Gorra de lana de EEUU lo usé en mis vacaciones. Es de muy buena calidad solo que no lo uso si te interesa escribe.",
+        "exchange_rate": "",
+        "tags": "#vestimenta#invierno",
+        "status": "nuevo",
+        "user_id": "9324d24b-7d5a-43ce-970b-6ef95edfc60e",
+        "category_id": 9
+    },
+    {
+        "title": "Lupa",
+        "short_description": "Lupa media de mano",
+        "long_description": "Lupa en buen estado. no presenta rayones ni marcas tiene su caja de empaque. Lo tenia en casa pero nadie lo usa.",
+        "exchange_rate": "",
+        "tags": "#investigación#nuevo",
+        "status": "nuevo",
+        "user_id": "e24262a7-431e-4876-81b2-028d61db6ae6",
+        "category_id": 10
+    },
+    {
+        "title": "Pelota de tenis",
+        "short_description": "Pelota de tenis profesional",
+        "long_description": "Pelotas de tenis profesional de EEUU me lo trajeron pero ya no practico tenis",
+        "exchange_rate": "",
+        "tags": "#tennis#deportes#balls",
+        "status": "nuevo",
+        "user_id": "f8a9f6b6-7008-4064-8e1c-90f508cfa241",
+        "category_id": 11
+    },
+    {
+        "title": "Cesta de Ropa",
+        "short_description": "Cesta blanca de ropa ideal para niños. 50cm de alto diametro de 30cm",
+        "long_description": "La cesta de ropa cuenta con tapa tal cual en la foto. Además que es ligera y resistente.",
+        "exchange_rate": "",
+        "tags": "#lipieza#higiene#ropa",
+        "status": "usado",
+        "user_id": "f8a9f6b6-7008-4064-8e1c-90f508cfa241",
+        "category_id": 1
+    },
+    {
+        "title": "Cable USB tipo C",
+        "short_description": "Cable USB tipo C",
+        "long_description": "Hola tenia un celular androi pero me lo robaron. me quedo solo el cable y aún funciona.",
+        "exchange_rate": "",
+        "tags": "#celular#cargador",
+        "status": "usado",
+        "user_id": "e24262a7-431e-4876-81b2-028d61db6ae6",
+        "category_id": 12
+    },
+    {
+        "title": "Pizarra de tiza",
+        "short_description": "Pizarro de tiza para niños",
+        "long_description": "Mi papá daba clases en escuelas hace mucho tiempo. La encontre y puede que a alguien le sirva. esta en buen estado.",
+        "exchange_rate": "",
+        "tags": "#pizarra#estudiante",
+        "status": "usado",
+        "user_id": "f8a9f6b6-7008-4064-8e1c-90f508cfa241",
+        "category_id": 13
+    },
+    {
+        "title": "Mouse inalambrico",
+        "short_description": "Mouse inalambrico HP",
+        "long_description": "Habia perdido mi mouse y compre este. lo use por una semana.",
+        "exchange_rate": "",
+        "tags": "#ratón#inalámbrico#pc",
+        "status": "nuevo",
+        "user_id": "5728860e-2797-48aa-b403-7ae733796eb5",
+        "category_id": 14
+    },
+    {
+        "title": "Reloj Analógico de mano",
+        "short_description": "Reloj analógico de mano",
+        "long_description": "Me regalarón este reloj. es bonito pero no lo uso.",
+        "exchange_rate": "",
+        "tags": "#reloj#deportivo",
+        "status": "nuevo",
+        "user_id": "32472948-42ef-42f1-a43a-791fcb9e8507",
+        "category_id": 15
+    },
+    {
+        "title": "Perfume Hombre",
+        "short_description": "Perfume Solo ForMen de la marca Yanbal",
+        "long_description": "",
+        "exchange_rate": "",
+        "tags": "#hombres#colonia#yanbal",
+        "status": "nuevo",
+        "user_id": "0e3211bb-d1bd-4307-afed-10b09b9b7a2d",
+        "category_id": 16
+    }
+]

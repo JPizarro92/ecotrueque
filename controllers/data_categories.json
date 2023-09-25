@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Otros",
+    "icon": "ellipsis-horizontal-outline"
+  },
+  {
+    "name": "Hogar",
+    "icon": "home-outline"
+  },
+  {
+    "name": "Juguetes",
+    "icon": "football-outline"
+  },
+  {
+    "name": "Libros",
+    "icon": "book-outline"
+  },
+  {
+    "name": "Electrónica",
+    "icon": "flash-outline"
+  },
+  {
+    "name": "Accesorio de auto",
+    "icon": "car-sport-outline"
+  },
+  {
+    "name": "Accesorio de moto",
+    "icon": "bicycle-outline"
+  },
+  {
+    "name": "Trabajos/Servicios",
+    "icon": "hand-left-outline"
+  },
+  {
+    "name": "Ropa e indumentaria",
+    "icon": "shirt-outline"
+  },
+  {
+    "name": "Artículos",
+    "icon": "dice-outline"
+  },
+  {
+    "name": "Deportes",
+    "icon": "barbell-outline"
+  },
+  {
+    "name": "Celulares",
+    "icon": "phone-portrait-outline"
+  },
+  {
+    "name": "Oficina",
+    "icon": "calculator-outline"
+  },
+  {
+    "name": "PC's o Laptops",
+    "icon": "desktop-outline"
+  },
+  {
+    "name": "Joyería",
+    "icon": "diamond-outline"
+  },
+  {
+    "name": "Cosméticos o perfumes",
+    "icon": "flame-outline"
+  }
+]

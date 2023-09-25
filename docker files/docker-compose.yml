@@ -1,0 +1,44 @@
+version: '3.6'
+
+services:
+  srvpostgres:
+    image: postgres
+    container_name: srvpostgres
+    hostname: srvpostgres
+    environment:
+      POSTGRES_USER: ecotrueque
+      POSTGRES_DB: ecotrueque
+      POSTGRES_PASSWORD: ecotrueque
+      TZ:  America/Guayaquil
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    networks:
+      - datalogger_net
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: ecotrueque-pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ecotrueque@ecotrueque.com
+      PGADMIN_DEFAULT_PASSWORD: ecotrueque
+    ports:
+      - "5050:80"
+    depends_on:
+      - srvpostgres
+
+    networks:
+      - datalogger_net
+    
+volumes:
+  pg_data:
+    driver: local
+    driver_opts:
+      o: bind
+      type: none
+      #device: C:\Users\Jorge\datapg
+      device: /home/vinicio/DataDB/ecotrueque
+
+networks:
+  datalogger_net:
