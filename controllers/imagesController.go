@@ -1,6 +1,8 @@
 package controllers
 
 import (
+	"ecotrueque/initializers"
+	"ecotrueque/models"
 	"fmt"
 	"net/http"
 	"path/filepath"
@@ -8,10 +10,24 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+// Todo: deleted a imagen in temp folder
 func DeletePostImageInTemp() gin.HandlerFunc {
 	return func(ctx *gin.Context) {
+		/*1 recibir nombre de imagen*/
+		post_img_id := ctx.Param("id")
+		var post_img models.PostImage
+
+		if err := initializers.DB.First(&post_img, "=?", post_img_id).Error; err != nil {
+			ctx.JSON(http.StatusInternalServerError, gin.H{
+				"status":  "fail",
+				"message": "error",
+				"error":   err.Error()})
+			return
+		}
+
+		//uid_string := helpers.GetUidString(ctx)
+
 		/*
-			1 recibir nombre de imagen
 			2 verificar en carpeta
 			3 eliminar imagen en carpeta
 			4 devolver true or false
@@ -19,6 +35,7 @@ func DeletePostImageInTemp() gin.HandlerFunc {
 	}
 }
 
+// Todo: upload a imagen to temp folder
 func UploadPostImage2Temp() gin.HandlerFunc {
 	return func(c *gin.Context) {
 		//? Verifica que se envíe el archivo y la propiedad "image"
@@ -60,10 +77,14 @@ func UploadPostImage2Temp() gin.HandlerFunc {
 	}
 }
 
-func DeleteImages() {
+func DeleteImageInPostFolder() gin.HandlerFunc {
+	return func(ctx *gin.Context) {
 
+	}
 }
 
-func UpdateImage() {
+func UpdateImage() gin.HandlerFunc {
+	return func(ctx *gin.Context) {
 
+	}
 }

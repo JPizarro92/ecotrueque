@@ -30,8 +30,6 @@ func CreatePost() gin.HandlerFunc {
 				"error":   err.Error()})
 			return
 		}
-
-		//** Validar los datos del post entrada
 		validate := validator.New()
 		if err := validate.Struct(post); err != nil {
 			ctx.JSON(http.StatusBadRequest, gin.H{
@@ -40,10 +38,7 @@ func CreatePost() gin.HandlerFunc {
 				"error":   err.Error()})
 			return
 		}
-
-		//* Get
 		uid := helpers.GetUidString(ctx)
-
 		if uid != post.User.ID.String() {
 			ctx.JSON(http.StatusUnauthorized, gin.H{
 				"status":  "error",
